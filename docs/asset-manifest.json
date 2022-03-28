@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eter19/Gifs/static/css/main.34f42d23.css",
+    "main.js": "/eter19/Gifs/static/js/main.8f59ab19.js",
+    "index.html": "/eter19/Gifs/index.html",
+    "main.34f42d23.css.map": "/eter19/Gifs/static/css/main.34f42d23.css.map",
+    "main.8f59ab19.js.map": "/eter19/Gifs/static/js/main.8f59ab19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f42d23.css",
+    "static/js/main.8f59ab19.js"
+  ]
+}
